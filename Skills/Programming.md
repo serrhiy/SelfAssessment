@@ -4,76 +4,76 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm 🙋 explained
+  - Syntax 🙋 explained
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Paradigm 👂 heard
+  - Programm 🙋 explained
+  - Programming paradigm 👂 heard
+  - Programming language 🙋 explained
+  - Contract 👂 heard
+  - Module 👂 heard
+  - Library 👂 heard
+  - Package 👂 heard
+  - Component 👂 heard
+  - Framework 👂 heard
+  - Platform 👂 heard
+  - Source code 🙋 explained
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering 👂 heard
+  - Decomposition 🖐️ used
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) 🖐️ used
+  - KISS principle 👂 heard
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Value 🙋 explained
+  - Identifier 🙋 explained
+  - Variable 🙋 explained
+  - Constant 🙋 explained
+  - Scalar 🙋 explained
+  - Literal 🙋 explained
+  - Expression 🖐️ used
+  - Heap 👂 heard
+  - Function 🙋 explained
+  - Procedure 🙋 explained
+  - Method 🙋 explained
+  - Class 🙋 explained
+  - Prototype 👂 heard
   - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Type 🙋 explained
+  - Flag 🖐️ used
+  - Lexical scope 🖐️ used
+  - Code block 🙋 explained
+  - Conditions 🙋 explained
+  - Loops 🙋 explained
+  - Assignment 🙋 explained
+  - Regular expression 👂 heard
+  - Interface 👂 heard
+  - Namespaces 👂 heard
+  - Call stack 👂 heard
+  - Naming conventions 🖐️ used
+  - Coding conventions 👂 heard
+  - Camel case 🖐️ used
+  - Snake case 🖐️ used
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types 🙋 explained
+  - Reference types 🙋 explained
   - Type systems
-  - Strong typing
-  - Weak typeing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Strong typing 👂 heard
+  - Weak typeing 👂 heard
+  - Duck typing 👂 heard
+  - Static typing 👂 heard
+  - Dynamic typing 👂 heard
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,17 +81,17 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature 🙋 explained
+  - Argument 🙋 explained
+  - Parameter 🙋 explained
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure 👂 heard
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion 🙋 explained
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array 🙋 explained
+  - Structure 🙋 explained
   - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
+  - Enum 👂 heard
+  - Instance 🙋 explained
+  - Object 🙋 explained
+  - Collection 🖐️ used
+  - Set 👂 heard
+  - Hash table 👂 heard
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Queue 👂 heard
+  - Stack 👂 heard
+  - Deque 👂 heard
+  - Tree 👂 heard
+  - Graph 👂 heard
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Serialization 🖐️ used
+  - String parsing 🖐️ used
+  - JSON 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -142,43 +142,43 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
-  - Linker
+  - Interpreter 🖐️ used
+  - Linker 👂 heard
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime 👂 heard
+  - Virtual machine 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🖐️ used
   - Tracing
-  - Garbage collection
+  - Garbage collection 👂 heard
   - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Hithub
-  - Docker
+  - Code review 👂 heard
+  - Exception 🖐️ used
+  - Unittesting 👂 heard
+  - git 👂 heard
+  - Hithub 👂 heard
+  - Docker 👂 heard
   - Kubernetes
-  - GCC
+  - GCC 🖐️ used
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers 🙋 explained
+  - Hard code 🙋 explained
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti 🖐️ used
   - Silver bullet
   - Not invented here
   - Dead code
@@ -209,20 +209,20 @@
   - Mono
 - Operation systems
   - Interrupts
-  - Drivers
+  - Drivers 🖐️ used
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system 👂 heard
+  - Linux 🖐️ used
+  - Unix 👂 heard
   - BSD
-  - MacOS
-  - Windows
+  - MacOS 👂 heard
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII 👂 heard
   - Escape sequence
   - RFC
   - IETF
@@ -231,9 +231,9 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO 👂 heard
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 👂 heard
   - W3C
   - ODMG

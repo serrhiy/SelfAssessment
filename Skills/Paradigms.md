@@ -2,14 +2,14 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
+  - Imperative programming 🖐️ used
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 🖐️ used
   - Object-based programming
-  - Generic programming
+  - Generic programming 👂 heard
   - Concurrent computing
   - Asyncronous programming
   - Parallel programming
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor 🙋 explained
+  - Operator `new` 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 👂 heard
+  - Interface 👂 heard
+  - Encapsulation 🖐️ used
   - Hidden class
   - Object form
-  - Instance
+  - Instance 🙋 explained
   - Introspection
   - Reflection
   - The diamond problem

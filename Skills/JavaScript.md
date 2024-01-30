@@ -1,23 +1,23 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
+  - `Object` 🙋 explained
+  - `Function` 🙋 explained
+  - `Boolean` 🙋 explained 
+  - `Number` 🙋 explained
+  - `BigInt` 🙋 explained
+  - `String` 🙋 explained
+  - `Symbol` 👂 heard
+  - `Infinity` 👂 heard
+  - `NaN` 👂 heard
+  - `undefined` 🙋 explained
+  - `null` 🙋 explained
+  - `this` 👂 heard
+  - `instanceof` 🙋 explained
+  - `...spread` 🙋 explained
+  - `...rest` 🙋 explained
+  - `typeof` 🙋 explained
+  - Destructuring 🖐️ used
   - Generators
   - Iterators
   - Async generator
@@ -29,22 +29,22 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters 🙋 explained
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - `prototype` 👂 heard
+  - Equality operators 🙋 explained
+  - Logical operators 🙋 explained
+  - Logical Assignment 🙋 explained
+  - Bitwise operators 🙋 explained
+  - Ternary operator 🙋 explained
   - `void`
   - `yield`
   - `await`
-  - Template literal
-  - Strict mode
+  - Template literal 🖐️ used
+  - Strict mode 👂 heard
   - Hoisting
-  - `delete`
-  - `in`
+  - `delete` 🙋 explained
+  - `in` 🙋 explained
   - `super`
   - `eval`
   - `static`
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` 🙋 explained
+  - `while` 🙋 explained
+  - `do..while` 🙋 explained
+  - `for` 🙋 explained
+  - `for..in` 🙋 explained
+  - `for..of` 🙋 explained
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw` 🖐️ used
+  - `break` 🙋 explained
+  - `continue` 🙋 explained
   - `import`
-  - `export`
+  - `export` 🖐️ used
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `try..catch` 🖐️ used
+  - `switch` 🙋 explained
+  - `class` 🖐️ used
   - `extends`
   - `with`
-  - `new`
+  - `new` 🖐️ used
 - Functions
-  - Arrow function
+  - Arrow function 🖐️ used
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration 🖐️ used
+  - Function expression 🖐️ used
+  - Default parameters 🙋 explained
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` 🙋 explained
 - Data structures
-  - `Array`
+  - `Array` 🙋 explained
   - `Map`
   - `Set`
   - Weak collections
@@ -101,21 +101,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` 🖐️ used
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 👂 heard
   - npm
   - prettier
-  - MDN
+  - MDN 👂 heard
   - TC39
