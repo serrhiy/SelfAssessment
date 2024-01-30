@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - Garbage collection 🖐️ used
+  - Node.js LTS schedule 🖐️ used
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`🖐️ used
+  - Files `package.json`, `package-lock.json` 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🖐️ used
+  - Node.js CLI 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
+  - File system API (sync and async) 👂 heard
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -55,7 +55,7 @@
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module `node:assert` 🖐️ used
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
@@ -65,17 +65,17 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API 🖐️ used
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) 👂 heard
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard
   - RPC
   - Routing
   - DoS
@@ -89,17 +89,17 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner 👂 heard
   - Logging
   - Application configuring
-  - Testing
+  - Testing 🖐️ used
   - CI/CD
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer 👂 heard
+  - Console 🖐️ used
   - Inspector
 - Data access
   - Data access layer
@@ -110,19 +110,19 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` 🖐️ used
-  - `error.cause`
-  - `error.code`
-  - `error.message` 🖐️ used
-  - `error.stack`
+  - `Error` 🙋 explained
+  - `error.cause` 👂 heard
+  - `error.code` 👂 heard
+  - `error.message` 🙋 explained
+  - `error.stack` 🙋 explained
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools 🖐️ used
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks 🖐️ used
+  - Resource leaks 🖐️ used
   - Data race
 - Integrations and bindings
   - Native addons
@@ -140,4 +140,4 @@
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
   - Shared memory
-  - V8 binary serialization
+  - V8 binary serialization 👂 heard
