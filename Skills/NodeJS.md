@@ -110,10 +110,10 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` 🖐️ used
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message` 🖐️ used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
