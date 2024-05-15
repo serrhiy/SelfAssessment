@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming 🖐️ used
+  - Procedural programming 👂 heard
+  - Imperative programming 🙋 explained
   - Structured programming
   - Non-structured programming
   - Functional programming 👂 heard
-  - Prototype-based programming
+  - Prototype-based programming 🙋 explained
   - Object-oriented programming 🖐️ used
   - Object-based programming
   - Generic programming 👂 heard
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard
+  - Reactive programming 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming 🖐️ used
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🙋 explained
-  - Operator `new` 🙋 explained
-  - Static method 🙋 explained
-  - Method 🙋 explained
-  - Async method
-  - Getters, Setters 🙋 explained
-  - Public fields 🙋 explained
-  - Private fields 🙋 explained
-  - Field declarations
+  - Constructor🎓 known
+  - Operator `new` 🎓 known
+  - Static method 🎓 known
+  - Method 🎓 known
+  - Async method 👂 heard
+  - Getters, Setters 🎓 known
+  - Public fields 🎓 known
+  - Private fields 🎓 known
+  - Field declarations 🙋 explained
   - Inheritance 🖐️ used
   - Parent class 🖐️ used
   - Polymorphism 🖐️ used
   - Abstract class 👂 heard
   - Interface 👂 heard
   - Encapsulation 🖐️ used
-  - Hidden class
+  - Hidden class 👂 heard
   - Object form
-  - Instance 🙋 explained
+  - Instance 🎓 known
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,21 +64,21 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton 👂 heard
+  - Factory Method 🖐️ used
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
+  - Proxy 🖐️ used
+  - Chain of Responsibility 👂 heard
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype 🖐️ used
   - Composite
   - Decorator
   - Flyweight
