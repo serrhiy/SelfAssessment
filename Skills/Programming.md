@@ -70,7 +70,7 @@
   - Reference types 🎓 known
   - Type systems
   - Strong typing 🙋 explained
-  - Weak typeing 🙋 explained
+  - Weak typing 🙋 explained
   - Duck typing 🙋 explained
   - Static typing 🙋 explained
   - Dynamic typing 🙋 explained
@@ -105,6 +105,7 @@
   - Generator 👂 heard
   - Coroutine
 - Data structures
+<<<<<<< HEAD
   - Array 🎓 known
   - Structure 🎓 known
   - Record 👂 heard
@@ -165,7 +166,7 @@
   - Exception 🙋 explained
   - Unittesting 🖐️ used
   - git 🙋 explained
-  - Hithub 🙋 explained
+  - Github 🙋 explained
   - Docker 👂 heard
   - Kubernetes
   - GCC 🖐️ used
@@ -207,7 +208,7 @@
   - VJM
   - CLR
   - Mono
-- Operation systems
+- Operating systems
   - Interrupts
   - Drivers 🖐️ used
   - Kernel 👂 heard

@@ -93,7 +93,8 @@
   - `Array` 🎓 known
   - `Map` 🙋 explained
   - `Set` 🙋 explained
-  - Weak collections 🙋 explained
+  - `WeakMap` 🙋 explained
+  - `WeakSet` 🙋 explained
   - Typed arrays 🙋 explained
   - Mixins 🙋 explained
   - `Object.assign` 🙋 explained

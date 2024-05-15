@@ -11,7 +11,7 @@
   - Object-based programming
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
-  - Asyncronous programming 👂 heard
+  - Asynchronous programming 👂 heard
   - Parallel programming 👂 heard
   - Reactive programming 👂 heard
   - Functional-reactive (FRP)
