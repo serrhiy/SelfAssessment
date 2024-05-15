@@ -1,24 +1,24 @@
 ## JavaScript
 
 - Language
-  - `Object` 🎓 known
-  - `Function` 🎓 known
-  - `Boolean` 🎓 known
-  - `Number` 🎓 known
-  - `BigInt` 🎓 known
-  - `String` 🎓 known
-  - `Symbol` 🎓 known
-  - `Infinity` 🎓 known
-  - `NaN` 🎓 known
-  - `undefined` 🎓 known
-  - `null` 🎓 known
+  - `Object` 🙋 explained
+  - `Function` 🙋 explained
+  - `Boolean` 🙋 explained
+  - `Number` 🙋 explained
+  - `BigInt` 🙋 explained
+  - `String` 🙋 explained
+  - `Symbol` 🙋 explained
+  - `Infinity` 🙋 explained
+  - `NaN` 🙋 explained
+  - `undefined` 🙋 explained
+  - `null` 🙋 explained
   - `this` 🙋 explained
-  - `instanceof` 🎓 known
-  - `...spread` 🎓 known
-  - `...rest` 🎓 known
-  - `typeof`🎓 known
-  - Destructuring 🎓 known
-  - Generators 👂 heard
+  - `instanceof` 🙋 explained
+  - `...spread` 🙋 explained
+  - `...rest` 🙋 explained
+  - `typeof`🙋 explained
+  - Destructuring 🙋 explained
+  - Generators 🙋 explained
   - Iterators 🙋 explained
   - Async generator 👂 heard
   - Async iterator 👂 heard
@@ -29,51 +29,51 @@
   - `global` 🙋 explained
   - `globalThis` 🙋 explained
   - `window` 🙋 explained
-  - Getters and setters 🎓 known
+  - Getters and setters 🙋 explained
   - `__proto__` 🙋 explained
   - `prototype` 🙋 explained
-  - Equality operators 🎓 known
-  - Logical operators 🎓 known
-  - Logical Assignment 🎓 known
-  - Bitwise operators 🎓 known
-  - Ternary operator 🎓 known
-  - `void` 👂 heard
-  - `yield` 👂 heard
-  - `await` 🖐️ used
+  - Equality operators 🙋 explained
+  - Logical operators 🙋 explained
+  - Logical Assignment 🙋 explained
+  - Bitwise operators 🙋 explained
+  - Ternary operator 🙋 explained
+  - `void` 🙋 explained
+  - `yield` 🖐️ used
+  - `await` 🙋 explained
   - Template literal 🙋 explained
   - Strict mode 🙋 explained
   - Hoisting
-  - `delete` 🎓 known
-  - `in` 🎓 known
+  - `delete` 🙋 explained
+  - `in` 🙋 explained
   - `super` 🙋 explained
   - `eval` 🙋 explained
   - `static` 🙋 explained
   - `Number.parseInt` 🙋 explained
   - `Number.parseFloat` 🙋 explained
-  - Property descriptors
+  - Property descriptors 🙋 explained
   - Sealing properties
-  - Freezing properties
-  - Computed properties
+  - Freezing properties 🙋 explained
+  - Computed properties 🙋 explained
   - Instance class fields 🙋 explained
   - Static class fields 🙋 explained
   - Private class fields 🙋 explained
   - Private class methods 🙋 explained
 - Statements
-  - `if` 🎓 known
-  - `while` 🎓 known
-  - `do..while` 🎓 known
-  - `for` 🎓 known
-  - `for..in` 🎓 known
-  - `for..of` 🎓 known
-  - `for await` 👂 heard
+  - `if` 🙋 explained
+  - `while` 🙋 explained
+  - `do..while` 🙋 explained
+  - `for` 🙋 explained
+  - `for..in` 🙋 explained
+  - `for..of` 🙋 explained
+  - `for await` 🙋 explained
   - `throw` 🙋 explained
-  - `break` 🎓 known
-  - `continue` 🎓 known
+  - `break` 🙋 explained
+  - `continue` 🙋 explained
   - `import` 🙋 explained
   - `export` 🙋 explained
   - `label` 🙋 explained
   - `try..catch` 🙋 explained
-  - `switch`🎓 known
+  - `switch`🙋 explained
   - `class` 🙋 explained
   - `extends` 🙋 explained
   - `with`
@@ -88,9 +88,9 @@
   - `Function.prototype.call` 🙋 explained
   - `Function.prototype.bind` 🙋 explained
   - `Function.prototype.apply` 🙋 explained
-  - `return` 🎓 known
+  - `return` 🙋 explained
 - Data structures
-  - `Array` 🎓 known
+  - `Array` 🙋 explained
   - `Map` 🙋 explained
   - `Set` 🙋 explained
   - `WeakMap` 🙋 explained
@@ -105,12 +105,12 @@
   - `Math` 🙋 explained
   - `Reflect` 🖐️ used
   - `Error` 🙋 explained
-  - `Atomics` 👂 heard
+  - `Atomics` 🙋 explained
   - `JSON` 🙋 explained
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise` 👂 heard
+  - `Intl` 👂 heard
+  - `Promise` 🙋 explained
   - `console` 🙋 explained
   - Timers 🙋 explained
 - Infrastructure

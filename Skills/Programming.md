@@ -4,14 +4,14 @@
   - Model 🙋 explained
   - Modeling 🙋 explained
   - Subject domain 🙋 explained
-  - Algorithm 🎓 known
-  - Syntax 🎓 known
+  - Algorithm 🙋 explained
+  - Syntax 🙋 explained
   - Semantics 🖐️ used
   - Abstraction 🙋 explained
-  - Paradigm 🖐️ used
-  - Programm 🎓 known
-  - Programming paradigm 🖐️ used
-  - Programming language 🎓 known
+  - Paradigm 🙋 explained
+  - Programm 🙋 explained
+  - Programming paradigm 🙋 explained
+  - Programming language 🙋 explained
   - Contract 🙋 explained
   - Module 🙋 explained
   - Library 🙋 explained
@@ -19,42 +19,42 @@
   - Component 🙋 explained
   - Framework 🙋 explained
   - Platform 🙋 explained
-  - Source code 🎓 known
+  - Source code 🙋 explained
   - Object code 👂 heard
   - Machine code 👂 heard
   - Microcode
   - Software engineering 🙋 explained
   - Decomposition 🙋 explained
   - Control flow 🙋 explained
-  - Data flow
+  - Data flow 🙋 explained
   - Code reuse 🙋 explained
-  - Defensive programming
+  - Defensive programming 🙋 explained
   - Don't repeat yourself (DRY) 🙋 explained
   - KISS principle 🙋 explained
 - Syntax and concepts
-  - Value 🎓 known
-  - Identifier 🎓 known
-  - Variable 🎓 known
-  - Constant 🎓 known
-  - Scalar 🎓 known
-  - Literal 🎓 known
-  - Expression 🎓 known
-  - Heap 🎓 known
-  - Function 🎓 known
-  - Procedure 🎓 known
-  - Method 🎓 known
-  - Class 🎓 known
+  - Value 🙋 explained
+  - Identifier 🙋 explained
+  - Variable 🙋 explained
+  - Constant 🙋 explained
+  - Scalar 🙋 explained
+  - Literal 🙋 explained
+  - Expression 🙋 explained
+  - Heap 🙋 explained
+  - Function 🙋 explained
+  - Procedure 🙋 explained
+  - Method 🙋 explained
+  - Class 🙋 explained
   - Prototype 🙋 explained
-  - Event 🖐️ used
-  - Type 🎓 known
+  - Event 🙋 explained
+  - Type 🙋 explained
   - Flag 🙋 explained
   - Lexical scope 🙋 explained
-  - Code block 🎓 known
-  - Conditions 🎓 known
-  - Loops 🎓 known
-  - Assignment 🎓 known
-  - Regular expression 🖐️ used
-  - Interface 👂 heard
+  - Code block 🙋 explained
+  - Conditions 🙋 explained
+  - Loops 🙋 explained
+  - Assignment 🙋 explained
+  - Regular expression 🙋 explained
+  - Interface 🙋 explained
   - Namespaces 🙋 explained
   - Call stack 🙋 explained
   - Naming conventions 🙋 explained
@@ -66,9 +66,9 @@
   - Return early 🙋 explained
   - Fail-fast
 - Types
-  - Primitive types 🎓 known
-  - Reference types 🎓 known
-  - Type systems
+  - Primitive types 🙋 explained
+  - Reference types 🙋 explained
+  - Type systems 🙋 explained
   - Strong typing 🙋 explained
   - Weak typing 🙋 explained
   - Duck typing 🙋 explained
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 🎓 known
-  - Argument 🎓 known
-  - Parameter 🎓 known
+  - Signature 🙋 explained
+  - Argument 🙋 explained
+  - Parameter 🙋 explained
   - Pure function 🙋 explained
   - Lambda expression 🙋 explained
   - Side effects 🙋 explained
@@ -91,39 +91,38 @@
   - Partial application 🙋 explained
   - Curry 🙋 explained
   - Higher order 🙋 explained
-  - Recursion 🎓 known
+  - Recursion 🙋 explained
   - Tail call optimisation 🙋 explained
   - Callback 🙋 explained
-  - Listener 👂 heard
-  - Compose 👂 heard
-  - Pipe 👂 heard
-  - Memoize 👂 heard
-  - Wrapper 👂 heard
-  - Functor 👂 heard
-  - Monad 👂 heard
+  - Listener 🙋 explained
+  - Compose 🙋 explained
+  - Pipe 🙋 explained
+  - Memoize 🙋 explained
+  - Wrapper 🙋 explained
+  - Functor 🙋 explained
+  - Monad 🙋 explained
   - Monoid
-  - Generator 👂 heard
+  - Generator 🙋 explained
   - Coroutine
 - Data structures
-<<<<<<< HEAD
-  - Array 🎓 known
-  - Structure 🎓 known
-  - Record 👂 heard
-  - Enum 👂 heard
-  - Instance 🎓 known
-  - Object 🎓 known
+  - Array 🙋 explained
+  - Structure 🙋 explained
+  - Record 🙋 explained
+  - Enum 🙋 explained
+  - Instance 🙋 explained
+  - Object 🙋 explained
   - Collection 🙋 explained
   - Set 🙋 explained
-  - Hash table 🖐️ used
+  - Hash table 🙋 explained
   - Linked list 🚀 constructed
   - Doubly list 🚀 constructed
-  - Unrolled list 👂 heard
-  - Circular list 👂 heard
+  - Unrolled list 🚀 constructed
+  - Circular list 🚀 constructed
   - Queue 🚀 constructed
   - Stack 🚀 constructed
   - Deque 🚀 constructed
-  - Tree 👂 heard
-  - Graph 👂 heard
+  - Tree 🚀 constructed
+  - Graph 🚀 constructed
   - Iterator 🙋 explained
   - Mutable state 🙋 explained
   - Immutable state 🙋 explained
@@ -133,11 +132,11 @@
   - JSON5
   - YAML 👂 heard
 - Networking
-  - DNS
+  - DNS 🔬 researched
   - CDN 👂 heard
   - CORS
-  - IPv4 👂 heard
-  - IPv6 👂 heard
+  - IPv4 🔬 researched
+  - IPv6 🔬 researched
   - NAT
   - URL 👂 heard
   - URN
@@ -151,8 +150,8 @@
   - Polyfill 🙋 explained
   - Interpreter 🙋 explained
   - Linker 🖐️ used
-  - Dynamic linking 👂 heard
-  - Static linking 👂 heard
+  - Dynamic linking 🖐️ used
+  - Static linking 🖐️ used
   - Runtime 🙋 explained
   - Virtual machine 🖐️ used
   - Register-based VM
@@ -164,7 +163,7 @@
   - Refactoring 🙋 explained
   - Code review 🙋 explained
   - Exception 🙋 explained
-  - Unittesting 🖐️ used
+  - Unittesting 🙋 explained
   - git 🙋 explained
   - Github 🙋 explained
   - Docker 👂 heard
@@ -172,13 +171,13 @@
   - GCC 🖐️ used
   - LLVM
 - Antipatterns
-  - Magic numbers 🎓 known
-  - Hard code 🎓 known
+  - Magic numbers 🙋 explained
+  - Hard code 🙋 explained
   - Soft code
-  - Cryptic code
-  - Improbability factor
+  - Cryptic code 🙋 explained
+  - Improbability factor 🙋 explained
   - Accidental complexity 🙋 explained
-  - Action at a distance
+  - Action at a distance 🙋 explained
   - Spaghetti 🙋 explained
   - Silver bullet 🙋 explained
   - Not invented here 🙋 explained
@@ -197,8 +196,8 @@
   - Use switch/case 🙋 explained
   - Temporary field
   - Handle object as instances and hashes at the same time 🙋 explained
-  - Use fields instead of arguments
-  - Data clump
+  - Use fields instead of arguments 🙋 explained
+  - Data clump 🙋 explained
   - Feature envy 🙋 explained
   - Monkey patch
   - Yo-yo problem
@@ -220,11 +219,11 @@
   - BSD 👂 heard
   - MacOS 👂 heard
   - Windows 🖐️ used
-  - Real-time OS
-  - Embedded OS
+  - Real-time OS 👂 heard
+  - Embedded OS 👂 heard
 - Standards
   - ASCII 🖐️ used
-  - Escape sequence
+  - Escape sequence 🙋 explained
   - RFC
   - IETF
   - IANA

@@ -2,13 +2,13 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js 👂 heard
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and blocking code 🙋 explained
+  - Event loop phases 🙋 explained
   - Event loop microtasks and macrotasks
-  - Garbage collection 🖐️ used
-  - Node.js LTS schedule 🖐️ used
-  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - Garbage collection 🙋 explained
+  - Node.js LTS schedule 🙋 explained
+  - I/O-bound, CPU-bound, memory-bound tasks 🙋 explained
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules 🖐️ used
@@ -21,9 +21,9 @@
   - Files `package.json`, `package-lock.json` 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 🙋 explained
   - DI containers
-  - Coupling and cohesion
+  - Coupling and cohesion 🙋 explained
   - Framework agnostic approach
 - Environment
   - Command line arguments 🖐️ used
@@ -33,13 +33,13 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API 🖐️ used
   - Web Streams API
-  - Crypto API
+  - Crypto API 🖐️ used
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async) 👂 heard
-  - Copy folder recursively
+  - File system API (sync and async) 🖐️ used
+  - Copy folder recursively 🙋 explained
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
@@ -67,60 +67,60 @@
   - Protocol agnostic approach
   - Fetch API 🖐️ used
   - IncomingMessage
-  - HTTP(S) 👂 heard
-  - TCP/SSL
-  - UDP
+  - HTTP(S) 🙋 explained
+  - TCP/SSL 🙋 explained
+  - UDP 🙋 explained
   - TLS
   - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
+  - Long polling 🙋 explained
   - REST 👂 heard
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS 🙋 explained
+  - DDoS 🙋 explained
   - XSS
-  - Path traversal
-  - CSRF
-  - DNS
-  - SQL injection
+  - Path traversal 🙋 explained
+  - CSRF 👂 heard
+  - DNS 🙋 explained
+  - SQL injection 🙋 explained
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner 👂 heard
+  - Native test runner 🙋 explained
   - Logging
   - Application configuring
-  - Testing 🖐️ used
+  - Testing 🙋 explained
   - CI/CD
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer 👂 heard
+  - Buffer 🙋 explained
   - Console 🖐️ used
   - Inspector
 - Data access
   - Data access layer
   - Repository
   - Active record
-  - Query builder
+  - Query builder 👂 heard
   - Object-Relational Mapping
-  - CRUD
+  - CRUD 🙋 explained
   - DTO
 - Error handling and debugging
   - `Error` 🙋 explained
-  - `error.cause` 👂 heard
-  - `error.code` 👂 heard
+  - `error.cause` 🙋 explained
+  - `error.code` 🙋 explained
   - `error.message` 🙋 explained
   - `error.stack` 🙋 explained
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
+  - How to avoid mixins 👂 heard
+  - Uncaught exceptions 🙋 explained
   - Heap dump
   - Debugging tools 🖐️ used
-  - Flame graph
+  - Flame graph 🖐️ used
   - Memory leaks 🖐️ used
   - Resource leaks 🖐️ used
   - Data race

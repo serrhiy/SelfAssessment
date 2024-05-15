@@ -9,42 +9,42 @@
   - Prototype-based programming 🙋 explained
   - Object-oriented programming 🖐️ used
   - Object-based programming
-  - Generic programming 👂 heard
+  - Generic programming 🙋 explained
   - Concurrent computing 👂 heard
-  - Asynchronous programming 👂 heard
+  - Asynchronous programming 🖐️ used
   - Parallel programming 👂 heard
-  - Reactive programming 👂 heard
+  - Reactive programming 🖐️ used
   - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
+  - Automata-based programming 🖐️ used
+  - Domain-specific languages 🖐️ used
   - Multi-paradigm programming 🖐️ used
   - Metaprogramming
   - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
+  - Lambda calculus 🖐️ used
+  - Black box 🖐️ used
+  - Information hiding 🖐️ used
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor🎓 known
-  - Operator `new` 🎓 known
-  - Static method 🎓 known
-  - Method 🎓 known
-  - Async method 👂 heard
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
+  - Constructor 🙋 explained
+  - Operator `new` 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
+  - Async method 🙋 explained
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
   - Field declarations 🙋 explained
   - Inheritance 🖐️ used
   - Parent class 🖐️ used
   - Polymorphism 🖐️ used
-  - Abstract class 👂 heard
-  - Interface 👂 heard
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
   - Encapsulation 🖐️ used
   - Hidden class 👂 heard
   - Object form
-  - Instance 🎓 known
+  - Instance 🙋 explained
   - Introspection
   - Reflection
   - The diamond problem
@@ -65,14 +65,14 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton 👂 heard
-  - Factory Method 🖐️ used
+  - Factory Method 🙋 explained
   - Abstract Factory
   - Adapter
   - Observer
-  - Strategy
+  - Strategy 🙋 explained
   - Facade
-  - Proxy 🖐️ used
-  - Chain of Responsibility 👂 heard
+  - Proxy 🙋 explained
+  - Chain of Responsibility 🖐️ used
   - Command
   - Iterator
   - State

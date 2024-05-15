@@ -3,14 +3,14 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations
+  - Migrations 👂 heard
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery 👂 heard
   - Database scalability
-  - Relational databases
+  - Relational databases 👂 heard
   - Key-value store
   - Tuple store
-  - Graph databases
+  - Graph databases 👂 heard
   - Object databases
   - Column databases
   - Navigational databases
@@ -20,13 +20,13 @@
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL) 👂 heard
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
+  - Indexing 🖐️ used
+  - Primary keys 🖐️ used
+  - Foreign keys 🖐️ used
   - Transactions
   - Views
   - Subqueries
@@ -36,16 +36,16 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
+  - `SELECT` 🖐️ used
+  - `INSERT` 🖐️ used
+  - `UPDATE` 🖐️ used
+  - `DELETE` 🖐️ used
+  - `LIMIT` 🖐️ used
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` 🖐️ used
+  - `GROUP BY` 🖐️ used
   - `HAVING`
-  - `EXISTS`
+  - `EXISTS` 🖐️ used
   - `JOIN`
   - `INNER JOIN`
   - `LEFT JOIN`
@@ -70,18 +70,18 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL 👂 heard
   - Oracle
-  - MySQL
+  - MySQL 👂 heard
   - MariaDB
-  - MS SQL Server
-  - Redis
+  - MS SQL Server 👂 heard
+  - Redis 👂 heard
   - Rabbit
-  - MongoDB
+  - MongoDB 👂 heard
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
